@@ -31,23 +31,6 @@ Os exercícios estão organizados de acordo com os conteúdos abordados durante 
 
 *Os conteúdos serão adicionados e atualizados conforme o avanço dos estudos.*
 
-## 📁 Organização do repositório
-
-```text
-estudos-programacao-c/
-├── fundamentos/
-├── estruturas-condicionais/
-├── estruturas-repeticao/
-├── vetores-e-matrizes/
-├── funcoes/
-├── strings/
-├── ponteiros/
-├── structs/
-└── README.md
-```
-
-Cada diretório poderá conter exercícios, implementações e atividades relacionadas ao respectivo conteúdo.
-
 ## ⚙️ Tecnologias e ferramentas
 
 - **Linguagem:** C
