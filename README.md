@@ -51,7 +51,7 @@ Para executar os exercícios, é necessário ter um compilador C instalado, como
 2. Acesse o diretório do exercício:
 
    ```bash
-   cd estudos-programacao-c
+   cd estudosUCSProg
    ```
 
 3. Compile o arquivo desejado:
