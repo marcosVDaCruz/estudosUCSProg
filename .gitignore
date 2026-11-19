@@ -1,0 +1,13 @@
+# 1. Ignora absolutamente tudo na raiz e subpastas
+*
+
+# 2. Permite que o Git entre nas subpastas (obrigatório para ler arquivos internos)
+!*/
+
+# 3. Libera apenas os arquivos da linguagem escolhida
+!*.c
+
+# 4. Opcional: libera arquivos essenciais de configuração ou documentação
+!.gitignore
+!README.md
+
